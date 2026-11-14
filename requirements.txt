@@ -1,0 +1,1 @@
+# No third-party dependencies. The desktop UI uses Python's bundled Tkinter.
